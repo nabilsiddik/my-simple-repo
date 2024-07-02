@@ -1,3 +1,9 @@
 div{
     background-color: tomato;
 }
+
+.second{
+    background: green;
+    padding: 10px;
+    font-size: 20px;
+}
